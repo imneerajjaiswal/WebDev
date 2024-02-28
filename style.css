@@ -1,0 +1,20 @@
+.mainChild {
+  height: 100%;
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  border-radius: 8px;
+}
+
+.mainImage {
+  width: 200px;
+  height: 300px;
+  border-radius: 8px;
+  padding-top: 10px;
+}
+
+.parentone {
+  margin-top: 50px;
+}
