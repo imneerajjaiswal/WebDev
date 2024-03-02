@@ -1,0 +1,49 @@
+.avtaar {
+  height: 290;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.box {
+  height: 370;
+  width: 820;
+  margin: auto;
+  margin: 10px 0px 20px;
+  border-radius: 150px;
+  padding: 5px;
+  box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+}
+
+.parenT {
+  display: flex;
+  height: 270;
+  width: 60%;
+  margin: auto;
+}
+
+.tc {
+  text-align: center;
+  margin: 15px 10px;
+}
+
+.yellowBox {
+  height: px;
+  width: 70px;
+  border: 2px solid red;
+  text-align: center;
+  /* margin: auto; */
+}
+.Alag {
+  justify-content: space-around;
+  font-size: 10px;
+}
+
+.icon {
+  width: 40%;
+  height: 55px;
+}
+
+.textSize {
+  font-size: 15px;
+  text-align: justify;
+}
